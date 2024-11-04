@@ -78,13 +78,13 @@ int main() {
 
 ## OUTPUT:
 Simulating Caesar Cipher
-![image](https://github.com/user-attachments/assets/74f3b71c-70ac-49a9-acda-ee7e27206085)
+![image](https://github.com/user-attachments/assets/182d0d76-3b86-40ba-8bdd-45b4a39beb99)
 
 
-### INPUT : hello
-### KEY : 3
-### Encrypted Message : khoor 
-### Decrypted Message : hello
+### INPUT : ASHWIN
+### KEY : 2
+### Encrypted Message : CUJYKP 
+### Decrypted Message : ASHWIN
 
 ## RESULT:
 The program is executed successfully
