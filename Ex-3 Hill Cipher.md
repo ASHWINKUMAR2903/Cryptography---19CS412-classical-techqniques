@@ -69,7 +69,7 @@ return 0;
 }  
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c3ff8aa3-1d07-4963-b60d-979c665d585a)
+![image](https://github.com/user-attachments/assets/dc5f46ca-ac3f-4833-8aa1-7c98e24ffdb0)
 
 ## RESULT:
 The program is executed successfully
