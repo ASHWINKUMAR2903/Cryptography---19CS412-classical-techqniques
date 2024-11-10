@@ -206,7 +206,7 @@ int main()
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/73613e7b-14ee-42ad-982e-7abfba807666)
+![image](https://github.com/user-attachments/assets/baf5d2f1-fd9d-454f-95d5-e2ec5d1adae4)
 
 ### Key text: Monarchy 
 ### Plain text: instruments 
