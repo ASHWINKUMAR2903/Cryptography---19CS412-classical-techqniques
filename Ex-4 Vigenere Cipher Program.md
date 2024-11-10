@@ -82,7 +82,7 @@ printf("%c",65 + (value % 26));
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/61cfd4da-e46c-459c-9226-e54aaa6237ef)
+![image](https://github.com/user-attachments/assets/c80b3268-fba9-48d3-8a77-c5a811dd8a9c)
 
 ## RESULT:
 The program is executed successfully
